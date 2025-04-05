@@ -1,3 +1,1 @@
 # TercerRepo
-
-/* SOY MUY BUENO*/
